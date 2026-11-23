@@ -1,0 +1,49 @@
+# Athlete settings: the answers to the Phase 0 questions in docs/PLAN.md.
+# Every value below is a PLACEHOLDER. Edit them to match you; the generator reads this file each week.
+
+name: Runner
+
+# 1. Goal race. Set race_date to null for rolling base/maintenance training with no race.
+goal:
+  race_distance_km: 21.0975      # 5, 10, 21.0975 (half), 42.195 (marathon)
+  race_date: null                # e.g. 2027-04-18
+  plan_start: null               # first Monday of the plan; null = the Monday the generator first runs
+
+# 2. A recent race or hard time-trial, used to set training paces (VDOT).
+#    Leave null and the generator estimates fitness from your Garmin data instead.
+recent_result:
+  distance_km: 5.0
+  time: "25:00"                  # mm:ss or h:mm:ss
+  date: null
+
+# 3. Current training.
+current_weekly_km: 30.0          # typical recent week
+longest_recent_run_km: 12.0
+peak_weekly_km: 60.0             # never plan above this
+
+# 4. Which days you can run, and the long-run day.
+run_days: [tue, thu, sat, sun]
+long_run_day: sun
+
+# 5. Heart rate. null = estimate from Garmin data (max seen, resting HR).
+hr_max: null
+hr_rest: null
+sex: male                        # used only for the TRIMP load coefficient: male | female
+
+# 6. Program style: daniels | pfitzinger | hansons | eighty_twenty
+template: eighty_twenty
+
+# 7. Units and workout targets.
+units: km                        # km | mi
+target_type: pace                # pace | hr | none
+
+# 8. Watch model (informational).
+watch: null
+
+# 9. Injuries or constraints, free text (informational; not yet used by the engine).
+notes: ""
+
+# Engine tuning (safe defaults; change only if you know why).
+max_weekly_increase: 0.10        # at most +10% per week
+down_week_every: 4               # every 4th week is a recovery week
+down_week_factor: 0.75           # recovery week = 75% of the previous build week

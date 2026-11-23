@@ -1,0 +1,20 @@
+# Pfitzinger-style plan: high aerobic volume, lactate-threshold focus, medium-long runs.
+name: pfitzinger
+description: Endurance base, then lactate threshold and race-specific work, with medium-long runs.
+long_run_share: 0.30
+long_run_cap_km: 35
+taper_weeks: 3
+maintenance_phase: endurance
+phases:
+  - name: endurance
+    share: 0.30
+    quality: [medium_long, strides]
+    long: long
+  - name: lt_endurance
+    share: 0.30
+    quality: [threshold, medium_long]
+    long: long_mp
+  - name: race_preparation
+    share: 0.40
+    quality: [vo2_intervals, lt_intervals]
+    long: long

@@ -1,0 +1,25 @@
+# Daniels-style plan: four phases, paces from VDOT, quality limited by share of weekly volume.
+# Encodes the method's principles in our own words; not a copy of any published table.
+name: daniels
+description: Four phases (foundation, early quality, transition quality, final quality) with VDOT paces.
+long_run_share: 0.30
+long_run_cap_km: 32
+taper_weeks: 2
+maintenance_phase: early_quality
+phases:
+  - name: foundation
+    share: 0.25
+    quality: [strides, strides]
+    long: long
+  - name: early_quality
+    share: 0.25
+    quality: [reps, threshold]
+    long: long
+  - name: transition_quality
+    share: 0.25
+    quality: [vo2_intervals, cruise_intervals]
+    long: long
+  - name: final_quality
+    share: 0.25
+    quality: [threshold, mp_run]
+    long: long_mp

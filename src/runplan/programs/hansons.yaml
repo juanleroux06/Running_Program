@@ -1,0 +1,20 @@
+# Hansons-style plan: cumulative fatigue, long run capped, speed then strength intervals, MP tempos.
+name: hansons
+description: Cumulative fatigue; capped long run; speed then strength blocks plus marathon-pace tempo runs.
+long_run_share: 0.25
+long_run_cap_km: 26
+taper_weeks: 2
+maintenance_phase: base
+phases:
+  - name: base
+    share: 0.25
+    quality: [strides, fartlek]
+    long: long
+  - name: speed
+    share: 0.35
+    quality: [hansons_speed, mp_run]
+    long: long
+  - name: strength
+    share: 0.40
+    quality: [hansons_strength, mp_run]
+    long: long
