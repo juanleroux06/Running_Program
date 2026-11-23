@@ -1,0 +1,20 @@
+# 80/20-style plan: at least 80% of running time easy, 20% or less moderate-to-hard.
+name: eighty_twenty
+description: Polarised training; at least 80% of time easy, with fartlek, cruise intervals and fast finishes.
+long_run_share: 0.30
+long_run_cap_km: 32
+taper_weeks: 2
+maintenance_phase: foundation
+phases:
+  - name: foundation
+    share: 0.30
+    quality: [fartlek, strides]
+    long: long
+  - name: build
+    share: 0.40
+    quality: [cruise_intervals, hills]
+    long: long_fast_finish
+  - name: peak
+    share: 0.30
+    quality: [vo2_intervals, threshold]
+    long: long_fast_finish

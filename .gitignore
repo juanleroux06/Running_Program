@@ -1,0 +1,22 @@
+# Secrets: never commit Garmin tokens or credentials
+.garminconnect/
+.garth/
+*.token
+garmin_tokens*
+.env
+.env.*
+
+# Local data
+cache/
+out/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+build/
+dist/

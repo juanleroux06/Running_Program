@@ -1,0 +1,38 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "runplan"
+version = "0.1.0"
+description = "Weekly running program generator that reads Garmin data and pushes structured workouts to Garmin Connect."
+requires-python = ">=3.11"
+dependencies = [
+  "garminconnect==0.3.20",
+  "pydantic>=2.6",
+  "pyyaml>=6",
+  "typer>=0.12",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8", "hypothesis>=6", "ruff>=0.5"]
+
+[project.scripts]
+runplan = "runplan.cli:app"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+runplan = ["py.typed", "programs/*.yaml"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 120
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B"]
+ignore = ["B008"]  # typer.Option defaults are the idiomatic Typer style

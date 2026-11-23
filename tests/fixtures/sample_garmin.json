@@ -1,0 +1,576 @@
+{
+ "_note": "Synthetic, anonymised sample data for dry runs and demos.",
+ "activities": [
+  {
+   "activity_id": "2026-09-08",
+   "start": "2026-09-08T06:00:00",
+   "distance_km": 10.666666666666666,
+   "duration_min": 64.0,
+   "avg_hr": 140.0,
+   "max_hr": 170.0,
+   "name": ""
+  },
+  {
+   "activity_id": "2026-09-10",
+   "start": "2026-09-10T06:00:00",
+   "distance_km": 10.666666666666666,
+   "duration_min": 64.0,
+   "avg_hr": 140.0,
+   "max_hr": 170.0,
+   "name": ""
+  },
+  {
+   "activity_id": "2026-09-13",
+   "start": "2026-09-13T06:00:00",
+   "distance_km": 10.666666666666666,
+   "duration_min": 64.0,
+   "avg_hr": 140.0,
+   "max_hr": 170.0,
+   "name": ""
+  },
+  {
+   "activity_id": "2026-09-15",
+   "start": "2026-09-15T06:00:00",
+   "distance_km": 10.666666666666666,
+   "duration_min": 64.0,
+   "avg_hr": 140.0,
+   "max_hr": 170.0,
+   "name": ""
+  },
+  {
+   "activity_id": "2026-09-17",
+   "start": "2026-09-17T06:00:00",
+   "distance_km": 10.666666666666666,
+   "duration_min": 64.0,
+   "avg_hr": 140.0,
+   "max_hr": 170.0,
+   "name": ""
+  },
+  {
+   "activity_id": "2026-09-20",
+   "start": "2026-09-20T06:00:00",
+   "distance_km": 10.666666666666666,
+   "duration_min": 64.0,
+   "avg_hr": 140.0,
+   "max_hr": 170.0,
+   "name": ""
+  },
+  {
+   "activity_id": "2026-09-22",
+   "start": "2026-09-22T06:00:00",
+   "distance_km": 10.666666666666666,
+   "duration_min": 64.0,
+   "avg_hr": 140.0,
+   "max_hr": 170.0,
+   "name": ""
+  },
+  {
+   "activity_id": "2026-09-24",
+   "start": "2026-09-24T06:00:00",
+   "distance_km": 10.666666666666666,
+   "duration_min": 64.0,
+   "avg_hr": 140.0,
+   "max_hr": 170.0,
+   "name": ""
+  },
+  {
+   "activity_id": "2026-09-27",
+   "start": "2026-09-27T06:00:00",
+   "distance_km": 10.666666666666666,
+   "duration_min": 64.0,
+   "avg_hr": 140.0,
+   "max_hr": 170.0,
+   "name": ""
+  },
+  {
+   "activity_id": "2026-09-29",
+   "start": "2026-09-29T06:00:00",
+   "distance_km": 10.666666666666666,
+   "duration_min": 64.0,
+   "avg_hr": 140.0,
+   "max_hr": 170.0,
+   "name": ""
+  },
+  {
+   "activity_id": "2026-10-01",
+   "start": "2026-10-01T06:00:00",
+   "distance_km": 10.666666666666666,
+   "duration_min": 64.0,
+   "avg_hr": 140.0,
+   "max_hr": 170.0,
+   "name": ""
+  },
+  {
+   "activity_id": "2026-10-04",
+   "start": "2026-10-04T06:00:00",
+   "distance_km": 10.666666666666666,
+   "duration_min": 64.0,
+   "avg_hr": 140.0,
+   "max_hr": 170.0,
+   "name": ""
+  },
+  {
+   "activity_id": "2026-10-06",
+   "start": "2026-10-06T06:00:00",
+   "distance_km": 10.666666666666666,
+   "duration_min": 64.0,
+   "avg_hr": 140.0,
+   "max_hr": 170.0,
+   "name": ""
+  },
+  {
+   "activity_id": "2026-10-08",
+   "start": "2026-10-08T06:00:00",
+   "distance_km": 10.666666666666666,
+   "duration_min": 64.0,
+   "avg_hr": 140.0,
+   "max_hr": 170.0,
+   "name": ""
+  },
+  {
+   "activity_id": "2026-10-11",
+   "start": "2026-10-11T06:00:00",
+   "distance_km": 10.666666666666666,
+   "duration_min": 64.0,
+   "avg_hr": 140.0,
+   "max_hr": 170.0,
+   "name": ""
+  },
+  {
+   "activity_id": "2026-10-13",
+   "start": "2026-10-13T06:00:00",
+   "distance_km": 10.666666666666666,
+   "duration_min": 64.0,
+   "avg_hr": 140.0,
+   "max_hr": 170.0,
+   "name": ""
+  },
+  {
+   "activity_id": "2026-10-15",
+   "start": "2026-10-15T06:00:00",
+   "distance_km": 10.666666666666666,
+   "duration_min": 64.0,
+   "avg_hr": 140.0,
+   "max_hr": 170.0,
+   "name": ""
+  },
+  {
+   "activity_id": "2026-10-18",
+   "start": "2026-10-18T06:00:00",
+   "distance_km": 10.666666666666666,
+   "duration_min": 64.0,
+   "avg_hr": 140.0,
+   "max_hr": 170.0,
+   "name": ""
+  },
+  {
+   "activity_id": "2026-10-20",
+   "start": "2026-10-20T06:00:00",
+   "distance_km": 10.666666666666666,
+   "duration_min": 64.0,
+   "avg_hr": 140.0,
+   "max_hr": 170.0,
+   "name": ""
+  },
+  {
+   "activity_id": "2026-10-22",
+   "start": "2026-10-22T06:00:00",
+   "distance_km": 10.666666666666666,
+   "duration_min": 64.0,
+   "avg_hr": 140.0,
+   "max_hr": 170.0,
+   "name": ""
+  },
+  {
+   "activity_id": "2026-10-25",
+   "start": "2026-10-25T06:00:00",
+   "distance_km": 10.666666666666666,
+   "duration_min": 64.0,
+   "avg_hr": 140.0,
+   "max_hr": 170.0,
+   "name": ""
+  },
+  {
+   "activity_id": "2026-10-27",
+   "start": "2026-10-27T06:00:00",
+   "distance_km": 10.666666666666666,
+   "duration_min": 64.0,
+   "avg_hr": 140.0,
+   "max_hr": 170.0,
+   "name": ""
+  },
+  {
+   "activity_id": "2026-10-29",
+   "start": "2026-10-29T06:00:00",
+   "distance_km": 10.666666666666666,
+   "duration_min": 64.0,
+   "avg_hr": 140.0,
+   "max_hr": 170.0,
+   "name": ""
+  },
+  {
+   "activity_id": "2026-11-01",
+   "start": "2026-11-01T06:00:00",
+   "distance_km": 10.666666666666666,
+   "duration_min": 64.0,
+   "avg_hr": 140.0,
+   "max_hr": 170.0,
+   "name": ""
+  },
+  {
+   "activity_id": "2026-11-03",
+   "start": "2026-11-03T06:00:00",
+   "distance_km": 10.666666666666666,
+   "duration_min": 64.0,
+   "avg_hr": 140.0,
+   "max_hr": 170.0,
+   "name": ""
+  },
+  {
+   "activity_id": "2026-11-05",
+   "start": "2026-11-05T06:00:00",
+   "distance_km": 10.666666666666666,
+   "duration_min": 64.0,
+   "avg_hr": 140.0,
+   "max_hr": 170.0,
+   "name": ""
+  },
+  {
+   "activity_id": "2026-11-08",
+   "start": "2026-11-08T06:00:00",
+   "distance_km": 10.666666666666666,
+   "duration_min": 64.0,
+   "avg_hr": 140.0,
+   "max_hr": 170.0,
+   "name": ""
+  },
+  {
+   "activity_id": "2026-11-10",
+   "start": "2026-11-10T06:00:00",
+   "distance_km": 10.666666666666666,
+   "duration_min": 64.0,
+   "avg_hr": 140.0,
+   "max_hr": 170.0,
+   "name": ""
+  },
+  {
+   "activity_id": "2026-11-12",
+   "start": "2026-11-12T06:00:00",
+   "distance_km": 10.666666666666666,
+   "duration_min": 64.0,
+   "avg_hr": 140.0,
+   "max_hr": 170.0,
+   "name": ""
+  },
+  {
+   "activity_id": "2026-11-15",
+   "start": "2026-11-15T06:00:00",
+   "distance_km": 10.666666666666666,
+   "duration_min": 64.0,
+   "avg_hr": 140.0,
+   "max_hr": 170.0,
+   "name": ""
+  },
+  {
+   "activity_id": "2026-11-17",
+   "start": "2026-11-17T06:00:00",
+   "distance_km": 10.666666666666666,
+   "duration_min": 64.0,
+   "avg_hr": 140.0,
+   "max_hr": 170.0,
+   "name": ""
+  },
+  {
+   "activity_id": "2026-11-19",
+   "start": "2026-11-19T06:00:00",
+   "distance_km": 10.666666666666666,
+   "duration_min": 64.0,
+   "avg_hr": 140.0,
+   "max_hr": 170.0,
+   "name": ""
+  },
+  {
+   "activity_id": "2026-11-22",
+   "start": "2026-11-22T06:00:00",
+   "distance_km": 10.666666666666666,
+   "duration_min": 64.0,
+   "avg_hr": 140.0,
+   "max_hr": 170.0,
+   "name": ""
+  },
+  {
+   "activity_id": "2026-11-24",
+   "start": "2026-11-24T06:00:00",
+   "distance_km": 10.666666666666666,
+   "duration_min": 64.0,
+   "avg_hr": 140.0,
+   "max_hr": 170.0,
+   "name": ""
+  },
+  {
+   "activity_id": "2026-11-26",
+   "start": "2026-11-26T06:00:00",
+   "distance_km": 10.666666666666666,
+   "duration_min": 64.0,
+   "avg_hr": 140.0,
+   "max_hr": 170.0,
+   "name": ""
+  },
+  {
+   "activity_id": "2026-11-29",
+   "start": "2026-11-29T06:00:00",
+   "distance_km": 10.666666666666666,
+   "duration_min": 64.0,
+   "avg_hr": 140.0,
+   "max_hr": 170.0,
+   "name": ""
+  }
+ ],
+ "wellness": [
+  {
+   "day": "2026-10-26",
+   "resting_hr": 50.0,
+   "hrv_status": "BALANCED",
+   "sleep_score": 80.0,
+   "vo2max": null
+  },
+  {
+   "day": "2026-10-27",
+   "resting_hr": 50.0,
+   "hrv_status": "BALANCED",
+   "sleep_score": 80.0,
+   "vo2max": null
+  },
+  {
+   "day": "2026-10-28",
+   "resting_hr": 50.0,
+   "hrv_status": "BALANCED",
+   "sleep_score": 80.0,
+   "vo2max": null
+  },
+  {
+   "day": "2026-10-29",
+   "resting_hr": 50.0,
+   "hrv_status": "BALANCED",
+   "sleep_score": 80.0,
+   "vo2max": null
+  },
+  {
+   "day": "2026-10-30",
+   "resting_hr": 50.0,
+   "hrv_status": "BALANCED",
+   "sleep_score": 80.0,
+   "vo2max": null
+  },
+  {
+   "day": "2026-10-31",
+   "resting_hr": 50.0,
+   "hrv_status": "BALANCED",
+   "sleep_score": 80.0,
+   "vo2max": null
+  },
+  {
+   "day": "2026-11-01",
+   "resting_hr": 50.0,
+   "hrv_status": "BALANCED",
+   "sleep_score": 80.0,
+   "vo2max": null
+  },
+  {
+   "day": "2026-11-02",
+   "resting_hr": 50.0,
+   "hrv_status": "BALANCED",
+   "sleep_score": 80.0,
+   "vo2max": null
+  },
+  {
+   "day": "2026-11-03",
+   "resting_hr": 50.0,
+   "hrv_status": "BALANCED",
+   "sleep_score": 80.0,
+   "vo2max": null
+  },
+  {
+   "day": "2026-11-04",
+   "resting_hr": 50.0,
+   "hrv_status": "BALANCED",
+   "sleep_score": 80.0,
+   "vo2max": null
+  },
+  {
+   "day": "2026-11-05",
+   "resting_hr": 50.0,
+   "hrv_status": "BALANCED",
+   "sleep_score": 80.0,
+   "vo2max": null
+  },
+  {
+   "day": "2026-11-06",
+   "resting_hr": 50.0,
+   "hrv_status": "BALANCED",
+   "sleep_score": 80.0,
+   "vo2max": null
+  },
+  {
+   "day": "2026-11-07",
+   "resting_hr": 50.0,
+   "hrv_status": "BALANCED",
+   "sleep_score": 80.0,
+   "vo2max": null
+  },
+  {
+   "day": "2026-11-08",
+   "resting_hr": 50.0,
+   "hrv_status": "BALANCED",
+   "sleep_score": 80.0,
+   "vo2max": null
+  },
+  {
+   "day": "2026-11-09",
+   "resting_hr": 50.0,
+   "hrv_status": "BALANCED",
+   "sleep_score": 80.0,
+   "vo2max": null
+  },
+  {
+   "day": "2026-11-10",
+   "resting_hr": 50.0,
+   "hrv_status": "BALANCED",
+   "sleep_score": 80.0,
+   "vo2max": null
+  },
+  {
+   "day": "2026-11-11",
+   "resting_hr": 50.0,
+   "hrv_status": "BALANCED",
+   "sleep_score": 80.0,
+   "vo2max": null
+  },
+  {
+   "day": "2026-11-12",
+   "resting_hr": 50.0,
+   "hrv_status": "BALANCED",
+   "sleep_score": 80.0,
+   "vo2max": null
+  },
+  {
+   "day": "2026-11-13",
+   "resting_hr": 50.0,
+   "hrv_status": "BALANCED",
+   "sleep_score": 80.0,
+   "vo2max": null
+  },
+  {
+   "day": "2026-11-14",
+   "resting_hr": 50.0,
+   "hrv_status": "BALANCED",
+   "sleep_score": 80.0,
+   "vo2max": null
+  },
+  {
+   "day": "2026-11-15",
+   "resting_hr": 50.0,
+   "hrv_status": "BALANCED",
+   "sleep_score": 80.0,
+   "vo2max": null
+  },
+  {
+   "day": "2026-11-16",
+   "resting_hr": 50.0,
+   "hrv_status": "BALANCED",
+   "sleep_score": 80.0,
+   "vo2max": null
+  },
+  {
+   "day": "2026-11-17",
+   "resting_hr": 50.0,
+   "hrv_status": "BALANCED",
+   "sleep_score": 80.0,
+   "vo2max": null
+  },
+  {
+   "day": "2026-11-18",
+   "resting_hr": 50.0,
+   "hrv_status": "BALANCED",
+   "sleep_score": 80.0,
+   "vo2max": null
+  },
+  {
+   "day": "2026-11-19",
+   "resting_hr": 50.0,
+   "hrv_status": "BALANCED",
+   "sleep_score": 80.0,
+   "vo2max": null
+  },
+  {
+   "day": "2026-11-20",
+   "resting_hr": 50.0,
+   "hrv_status": "BALANCED",
+   "sleep_score": 80.0,
+   "vo2max": null
+  },
+  {
+   "day": "2026-11-21",
+   "resting_hr": 50.0,
+   "hrv_status": "BALANCED",
+   "sleep_score": 80.0,
+   "vo2max": null
+  },
+  {
+   "day": "2026-11-22",
+   "resting_hr": 50.0,
+   "hrv_status": "BALANCED",
+   "sleep_score": 80.0,
+   "vo2max": null
+  },
+  {
+   "day": "2026-11-23",
+   "resting_hr": 50.0,
+   "hrv_status": "BALANCED",
+   "sleep_score": 80.0,
+   "vo2max": null
+  },
+  {
+   "day": "2026-11-24",
+   "resting_hr": 50.0,
+   "hrv_status": "BALANCED",
+   "sleep_score": 80.0,
+   "vo2max": null
+  },
+  {
+   "day": "2026-11-25",
+   "resting_hr": 50.0,
+   "hrv_status": "BALANCED",
+   "sleep_score": 80.0,
+   "vo2max": null
+  },
+  {
+   "day": "2026-11-26",
+   "resting_hr": 50.0,
+   "hrv_status": "BALANCED",
+   "sleep_score": 80.0,
+   "vo2max": null
+  },
+  {
+   "day": "2026-11-27",
+   "resting_hr": 50.0,
+   "hrv_status": "BALANCED",
+   "sleep_score": 80.0,
+   "vo2max": null
+  },
+  {
+   "day": "2026-11-28",
+   "resting_hr": 50.0,
+   "hrv_status": "BALANCED",
+   "sleep_score": 80.0,
+   "vo2max": null
+  },
+  {
+   "day": "2026-11-29",
+   "resting_hr": 50.0,
+   "hrv_status": "BALANCED",
+   "sleep_score": 80.0,
+   "vo2max": null
+  }
+ ]
+}
